@@ -1,0 +1,28 @@
+[{
+    "id":1,
+    "name":"jacky",
+    "email":"jacky@test.com",
+    "mouse":"12345679",
+    "keyboard":"98234565"
+},
+{
+    "id":2,
+    "name":"macky",
+    "email":"macky@test.com",
+    "mouse":"12345678",
+    "keyboard":"98234564"
+},
+{
+    "id":3,
+    "name":"packy",
+    "email":"packy@test.com",
+    "mouse":"12345677",
+    "keyboard":"98234563"
+},
+{
+    "id":4,
+    "name":"dacky",
+    "email":"dacky@test.com",
+    "mouse":"12345676",
+    "keyboard":"98234561"
+}]
